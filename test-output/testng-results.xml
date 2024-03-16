@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-16T10:38:09 EET" name="Default suite" finished-at="2024-03-16T10:38:33 EET" duration-ms="24055">
+  <suite started-at="2024-03-16T10:45:25 EET" name="Default suite" finished-at="2024-03-16T10:45:49 EET" duration-ms="23962">
     <groups>
     </groups>
-    <test started-at="2024-03-16T10:38:09 EET" name="Default test" finished-at="2024-03-16T10:38:33 EET" duration-ms="24055">
+    <test started-at="2024-03-16T10:45:25 EET" name="Default test" finished-at="2024-03-16T10:45:49 EET" duration-ms="23962">
       <class name="almosaferNewTestCases.myTestCases">
-        <test-method is-config="true" signature="setup()[pri:0, instance:almosaferNewTestCases.myTestCases@158a3b2e]" started-at="2024-03-16T10:38:09 EET" name="setup" finished-at="2024-03-16T10:38:12 EET" duration-ms="2737" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:almosaferNewTestCases.myTestCases@25a6944c]" started-at="2024-03-16T10:45:25 EET" name="setup" finished-at="2024-03-16T10:45:28 EET" duration-ms="2903" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="myTest()[pri:0, instance:almosaferNewTestCases.myTestCases@158a3b2e]" started-at="2024-03-16T10:38:12 EET" name="myTest" finished-at="2024-03-16T10:38:33 EET" duration-ms="21297" status="PASS">
+        <test-method signature="myTest()[pri:0, instance:almosaferNewTestCases.myTestCases@25a6944c]" started-at="2024-03-16T10:45:28 EET" name="myTest" finished-at="2024-03-16T10:45:49 EET" duration-ms="21035" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- myTest -->
-        <test-method is-config="true" signature="postTest()[pri:0, instance:almosaferNewTestCases.myTestCases@158a3b2e]" started-at="2024-03-16T10:38:33 EET" name="postTest" finished-at="2024-03-16T10:38:33 EET" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="postTest()[pri:0, instance:almosaferNewTestCases.myTestCases@25a6944c]" started-at="2024-03-16T10:45:49 EET" name="postTest" finished-at="2024-03-16T10:45:49 EET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postTest -->
